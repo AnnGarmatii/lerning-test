@@ -62,6 +62,7 @@ touch lesson_1.txt lesson_2.txt lesson_3.txt lesson_4.json lesson_5.json;
 mkdir v_1 v_2 v_3;
 ls -la;
 mv lesson_1.txt ../c_2/lesson_1.txt
+Сохранить и выйти - Esc : w q
 
 чтобы запустить ./myscript.sh
 
